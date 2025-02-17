@@ -89,6 +89,7 @@ export default function TeamPage() {
         linkedin: "#",
         instagram: "#",
         tiktok: "#"
+      }
     }
   ]
 
@@ -203,4 +204,3 @@ export default function TeamPage() {
     </div>
   )
 }
-
