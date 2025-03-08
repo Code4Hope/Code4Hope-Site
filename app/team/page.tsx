@@ -20,7 +20,7 @@ export default function TeamPage() {
     },
     {
       name: "Krish Tated",
-      title: "Director of Outreach",
+      title: "Executive Director of Outreach",
       image: "https://docs.code4hope.net/img/team-2.jpg",
       socials: {
         linkedin: "#",
@@ -30,7 +30,7 @@ export default function TeamPage() {
     },
     {
       name: "Maira Batra",
-      title: "Director of Social Media Outreach",
+      title: "Executive Director of Marketing",
       image: "https://docs.code4hope.net/img/team-3.jpg",
       socials: {
         linkedin: "#",
@@ -40,7 +40,7 @@ export default function TeamPage() {
     },
     {
       name: "Ranya Chaudhary",
-      title: "Event Director",
+      title: "Executive Event Director",
       image: "https://docs.code4hope.net/img/team-4.jpg",
       socials: {
         linkedin: "#",
@@ -74,6 +74,16 @@ export default function TeamPage() {
     {
       name: "Dhriti Vohra",
       title: "Event Director",
+      image: "/placeholder.svg",
+      socials: {
+        linkedin: "#",
+        instagram: "#",
+        tiktok: "#"
+      }
+    },
+    {
+      name: "Anvita Somisetty",
+      title: "Merch Designer",
       image: "/placeholder.svg",
       socials: {
         linkedin: "#",
@@ -194,4 +204,3 @@ export default function TeamPage() {
     </div>
   )
 }
-
